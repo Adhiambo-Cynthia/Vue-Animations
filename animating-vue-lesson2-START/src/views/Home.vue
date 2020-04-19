@@ -25,14 +25,6 @@ export default {
 </script>
 
 <style>
-.fade-enter{
-  opacity: 0;
-}
-.fade-enter-active, .fade-leave-active{
-  transition: opacity 1s ease;
-}
-.fade-leave-to{
-  opacity: 0;
-}
+
 
 </style>
