@@ -1,3 +1,4 @@
+Intro GSAP
 <template>
     <div id="container">
     <div v-for="card in cards" :key="card.id" class="card"></div>

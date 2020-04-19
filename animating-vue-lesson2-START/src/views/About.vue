@@ -1,3 +1,4 @@
+Group Animations
 <template>
   <div>
     <input v-model="newContact" placeholder="Name" type="text" />
